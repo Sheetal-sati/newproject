@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ActaDisplayW04';
+    src: url('ActaDisplayW04-BoldItalic.eot');
+    src: url('ActaDisplayW04-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ActaDisplayW04-BoldItalic.woff2') format('woff2'),
+        url('ActaDisplayW04-BoldItalic.woff') format('woff'),
+        url('ActaDisplayW04-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
